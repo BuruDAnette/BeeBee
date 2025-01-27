@@ -3,6 +3,6 @@ Este repositório contém o código, documentação e especificação técnica d
 
 
 <h2><img src="BeeBeeLogo.png" height="24" /></h2>
-<img align='right' src="" width="500" />
+<img align='right' src="BeeBeeLogo.png" width="500" />
 
 
